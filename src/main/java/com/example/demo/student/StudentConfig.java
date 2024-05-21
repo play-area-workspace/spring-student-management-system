@@ -1,3 +1,4 @@
+/*
 package com.example.demo.student;
 
 import org.springframework.boot.CommandLineRunner;
@@ -33,3 +34,4 @@ public class StudentConfig {
     }
 
 }
+*/
