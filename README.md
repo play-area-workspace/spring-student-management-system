@@ -32,4 +32,5 @@ Throughout the development of this project, I have achieved the following:
 3. **Database Integration**: Configuring and connecting to a PostgreSQL database, performing database migrations, and managing data with Spring Data JPA.
 4. **ORM with Hibernate**: Mapping Java objects to database tables, understanding entity relationships, and handling database transactions.
 5. **Validation and Error Handling**: Implementing input validation and managing exceptions to ensure robust and user-friendly APIs.
-6. **Transaction Management**: Utilizing Spring’s transaction management to ensure data consistency and integrity.
+
+[//]: # (6. **Transaction Management**: Utilizing Spring’s transaction management to ensure data consistency and integrity.)
